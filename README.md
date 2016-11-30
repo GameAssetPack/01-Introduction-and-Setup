@@ -8,5 +8,6 @@ This is a course is about getting your 3D Models from Blender into Unity.
 - Importing more advanced models with correct UV unwrapping.
 
 ## IS01 Section Introduction (Redone 28/11/16)
+## IS01a Where To Start In This Course?
 ## IS02 What Do You Need?
 ## IS99 Section 1 Wrap Up
