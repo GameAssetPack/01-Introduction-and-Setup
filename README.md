@@ -10,4 +10,5 @@ This is a course is about getting your 3D Models from Blender into Unity.
 ## IS01 Section Introduction (Redone 15/12/2016)
 ## IS01a Where To Start In This Course?
 ## IS02 What Do You Need? (Updated 31/12/2016)
+## IS03 Asking Good Questions
 ## IS99 Section 1 Wrap Up (Redone 15/12/2016)
