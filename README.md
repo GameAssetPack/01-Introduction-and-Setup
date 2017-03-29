@@ -1,14 +1,31 @@
-# Unity-Game-Asset-Pack
-## Asset Pipeline between Blender and Unity
-# Section 1 Setup and Introduction
+### Section 1 Introduction ###
 
-### About this course.
-This is a course is about getting your 3D Models from Blender into Unity.
-- We'll start will simple primitives and work upwards from there.
-- Importing more advanced models with correct UV unwrapping.
+Welcome to the Course!
+Michael and Ben introduce themselves and discuss what this course is all
+about.
 
-## IS01 Section Introduction (Redone 15/12/2016)
-## IS01a Where To Start In This Course?
-## IS02 What Do You Need? (Updated 31/12/2016)
-## IS03 Asking Good Questions
-## IS99 Section 1 Wrap Up (Redone 15/12/2016)
+(Unique Video Reference: 1_IS_UAC)
+
+### What Do You Need? ###
+
++ A PC or Mac.
++ A little prior knowledge
++ Blender 2.78 and Above
++ Unity 5.4 and Upwards
++ 3 Buttoned Mouse is very useful.
+
+(Unique Video Reference: 2_IS_UAC)
+
+### Asking Good Questions ###
+
+
+(Unique Video Reference: 3_IS_UAC)
+
+### Section 1 Wrap Up ###
+
+Excellent you should now be all setup and ready to take this course!
+
+(Unique Video Reference: 99_IS_UAC)
+
+---
+Find out more about our [3D Model Mastery Course](https://www.udemy.com/unityassets/?couponCode=GitHubDiscount).
