@@ -26,6 +26,3 @@ about.
 Excellent you should now be all setup and ready to take this course!
 
 (Unique Video Reference: 99_IS_UAC)
-
----
-Find out more about our [3D Model Mastery Course](https://www.udemy.com/unityassets/?couponCode=GitHubDiscount).
